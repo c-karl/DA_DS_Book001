@@ -1,0 +1,1007 @@
+Device Name,Compute Type,OS,Median Score
+12X Intel Xeon CPU E5-2450 0 @ 2.10GHz,CPU,Linux,78.57
+24X Intel Xeon CPU E5-2690 v3 @ 2.60GHz,CPU,Windows,297.94
+2X 12th Gen Intel Core i9-12900KF,CPU,Windows,424.47
+2X AMD EPYC 7343 16-Core Processor,CPU,Linux,439.21
+2X AMD Opteron Processor 6276,CPU,Windows,81.478
+2X AMD Opteron(tm) Processor 6328,CPU,Windows,58.04
+2X AMD Ryzen Threadripper PRO 3995WX 64-Cores,CPU,Windows,1779.73
+2X Genuine Intel CPU 0000 @ 2.00GHz,CPU,Windows,364.19
+2X Genuine Intel CPU 0000 @ 2.10GHz,CPU,Windows,171.68
+2X Intel Xeon CPU           E5520  @ 2.27GHz,CPU,Linux,65.01
+2X Intel Xeon CPU           X5650  @ 2.67GHz,CPU,macOS,115.23
+2X Intel Xeon CPU           X5670  @ 2.93GHz,CPU,Windows,67.36
+2X Intel Xeon CPU           X5675  @ 3.07GHz,CPU,macOS,126.14
+2X Intel Xeon CPU           X5680  @ 3.33GHz,CPU,macOS,128.7
+2X Intel Xeon CPU           X5690  @ 3.47GHz,CPU,Linux,136.67
+2X Intel Xeon CPU           X5690  @ 3.47GHz,CPU,Windows,108.63
+2X Intel Xeon CPU           X5690  @ 3.47GHz,CPU,macOS,133.843
+2X Intel Xeon CPU E5-2609 v3 @ 1.90GHz,CPU,Windows,71.63
+2X Intel Xeon CPU E5-2630 v4 @ 2.20GHz,CPU,Windows,231.78
+2X Intel Xeon CPU E5-2637 v3 @ 3.50GHz,CPU,Windows,128.49
+2X Intel Xeon CPU E5-2640 0 @ 2.50GHz,CPU,Linux,115.97
+2X Intel Xeon CPU E5-2640 0 @ 2.50GHz,CPU,Windows,102.47
+2X Intel Xeon CPU E5-2667 0 @ 2.90GHz,CPU,Windows,120.75
+2X Intel Xeon CPU E5-2667 v3 @ 3.20GHz,CPU,Windows,173.62
+2X Intel Xeon CPU E5-2670 0 @ 2.60GHz,CPU,Windows,151.98
+2X Intel Xeon CPU E5-2670 v2 @ 2.50GHz,CPU,Linux,113.9
+2X Intel Xeon CPU E5-2670 v3 @ 2.30GHz,CPU,macOS,362.32
+2X Intel Xeon CPU E5-2678 v3 @ 2.50GHz,CPU,macOS,325.19
+2X Intel Xeon CPU E5-2680 0 @ 2.70GHz,CPU,Windows,152.64
+2X Intel Xeon CPU E5-2680 v2 @ 2.80GHz,CPU,Linux,205.75
+2X Intel Xeon CPU E5-2680 v4 @ 2.40GHz,CPU,Linux,459.2
+2X Intel Xeon CPU E5-2687W v4 @ 3.00GHz,CPU,Windows,352.17
+2X Intel Xeon CPU E5-2690 0 @ 2.90GHz,CPU,Windows,161.82
+2X Intel Xeon CPU E5-2690 v2 @ 3.00GHz,CPU,Windows,60.05
+2X Intel Xeon CPU E5-2690 v3 @ 2.60GHz,CPU,Linux,372.34
+2X Intel Xeon CPU E5-2690 v4 @ 2.60GHz,CPU,Windows,360.65
+2X Intel Xeon CPU E5-2696 v3 @ 2.30GHz,CPU,Windows,429.57
+2X Intel Xeon CPU E5-2697 v2 @ 2.70GHz,CPU,Linux,235.333
+2X Intel Xeon CPU E5-2697 v2 @ 2.70GHz,CPU,Windows,228.11
+2X Intel Xeon CPU E5-2697 v3 @ 2.60GHz,CPU,Windows,401.005
+2X Intel Xeon CPU E5-2698 v4 @ 2.20GHz,CPU,Windows,525.715
+2X Intel Xeon CPU E5-2699 v3 @ 2.30GHz,CPU,Windows,363.13
+2X Intel Xeon Gold 5215 CPU @ 2.20GHz,CPU,Linux,324.92
+2X Intel Xeon Gold 6128 CPU @ 3.40GHz,CPU,Windows,228.38
+2X Intel Xeon Gold 6330 CPU @ 2.00GHz,CPU,Linux,720.3
+2X Intel Xeon Gold 6342 CPU @ 2.80GHz,CPU,Linux,761.11
+2X Intel Xeon Platinum 8279W CPU @ 2.50GHz,CPU,Windows,731.97
+2X Intel Xeon Platinum 8280L CPU @ 2.70GHz,CPU,Linux,1007.765
+2X Intel Xeon Processor (Icelake),CPU,Linux,810.32
+2X Intel Xeon Silver 4310 CPU @ 2.10GHz,CPU,Linux,410.09
+4X AMD Opteron(tm) Processor 6386 SE,CPU,Windows,333.91
+4X Intel Xeon CPU E7- 4870  @ 2.40GHz,CPU,Windows,279.37
+AMD A10-7850K APU with Radeon R7 Graphics,CPU,Windows,16.33
+"AMD A10-7850K Radeon R7, 12 Compute Cores 4C+8G",CPU,Windows,23.61
+"AMD A10-9600P RADEON R5, 10 COMPUTE CORES 4C+6G",CPU,Linux,19.28
+AMD A6-6310 APU with AMD Radeon R4 Graphics,CPU,Windows,5.31
+"AMD A8-7650K Radeon R7, 10 Compute Cores 4C+6G",CPU,Windows,16.3
+"AMD A9-9420 RADEON R5, 5 COMPUTE CORES 2C+3G",CPU,Windows,7.36
+"AMD A9-9425 RADEON R5, 5 COMPUTE CORES 2C+3G",CPU,Windows,4.2
+AMD Athlon 200GE with Radeon Vega Graphics,CPU,Linux,39.26
+AMD Athlon 200GE with Radeon Vega Graphics,CPU,Windows,33.978
+AMD Athlon 300GE with Radeon Vega Graphics,CPU,Linux,36.24
+AMD Athlon Silver 3050U with Radeon Graphics,CPU,Windows,15.117
+AMD Athlon(tm) II Dual-Core M300,CPU,Windows,3.36
+AMD Custom APU 0405,CPU,Linux,74.8
+AMD EPYC 7282 16-Core Processor,CPU,Windows,274.19
+AMD EPYC 7302P 16-Core Processor,CPU,Windows,298.8
+AMD EPYC 7551P 32-Core Processor,CPU,Linux,450.365
+AMD EPYC 7713 64-Core Processor,CPU,Linux,1224.87
+AMD EPYC 7H12 64-Core Processor,CPU,Windows,1010.37
+AMD EPYC 7R13 Processor,CPU,Linux,212.755
+AMD FX(tm)-4130 Quad-Core Processor,CPU,Windows,15.35
+AMD FX(tm)-6200 Six-Core Processor,CPU,Linux,40.36
+AMD FX(tm)-6300 Six-Core Processor,CPU,Linux,32.08
+AMD FX(tm)-6300 Six-Core Processor,CPU,Windows,31.543
+AMD FX(tm)-8120 Eight-Core Processor,CPU,Windows,21.51
+AMD FX(tm)-8150 Eight-Core Processor,CPU,Windows,35.182
+AMD FX(tm)-8300 Eight-Core Processor,CPU,Linux,42.65
+AMD FX(tm)-8300 Eight-Core Processor,CPU,Windows,36.46
+AMD FX(tm)-8320 Eight-Core Processor,CPU,Windows,53.38
+AMD FX(tm)-8350 Eight-Core Processor,CPU,Windows,39.192
+AMD FX(tm)-9590 Eight-Core Processor,CPU,Windows,41.49
+AMD FX-8370 Eight-Core Processor,CPU,Windows,44.166
+"AMD FX-8800P Radeon R7, 12 Compute Cores 4C+8G",CPU,Windows,17.69
+AMD Opteron Processor 6276,CPU,Linux,59.22
+"AMD PRO A6-8570 R5, 8 COMPUTE CORES 2C+6G",CPU,Windows,7.61
+AMD Phenom(tm) II X4 945 Processor,CPU,Windows,18.11
+AMD Phenom(tm) II X4 955 Processor,CPU,Windows,18.842
+AMD Phenom(tm) II X4 B97 Processor,CPU,Windows,21.27
+AMD Phenom(tm) II X6 1090T Processor,CPU,Windows,29.47
+AMD Radeon Graphics,HIP,Windows,599.533
+AMD Radeon HD - FirePro D500,METAL,macOS,112.305
+AMD Radeon HD - FirePro D700,METAL,macOS,166.613
+AMD Radeon HD W6800X,METAL,macOS,2220.72
+AMD Radeon PRO W6600,HIP,Windows,846.49
+AMD Radeon PRO W6800,HIP,Windows,1492.847
+AMD Radeon PRO W6800X,METAL,macOS,1476.39
+AMD Radeon PRO W6800X Duo,METAL,macOS,1613.34
+AMD Radeon Pro 450,METAL,macOS,50.563
+AMD Radeon Pro 460,METAL,macOS,91.91
+AMD Radeon Pro 5300,METAL,macOS,326.825
+AMD Radeon Pro 5300M,METAL,macOS,257.41
+AMD Radeon Pro 5500M,METAL,macOS,372.14
+AMD Radeon Pro 555,METAL,macOS,60.095
+AMD Radeon Pro 555X,METAL,macOS,75.345
+AMD Radeon Pro 560,METAL,macOS,98.795
+AMD Radeon Pro 5600M,METAL,macOS,576.984
+AMD Radeon Pro 560X,METAL,macOS,104.853
+AMD Radeon Pro 5700 XT,METAL,macOS,784.478
+AMD Radeon Pro 575,METAL,macOS,206.495
+AMD Radeon Pro 575X,METAL,macOS,220.82
+AMD Radeon Pro 580,METAL,macOS,356.485
+AMD Radeon Pro 580X,METAL,macOS,364.16
+AMD Radeon Pro Vega 20,METAL,macOS,161.447
+AMD Radeon Pro Vega 48,METAL,macOS,465.454
+AMD Radeon Pro Vega 56,METAL,macOS,553.78
+AMD Radeon Pro Vega 64,METAL,macOS,643.37
+AMD Radeon Pro Vega II,METAL,macOS,877.603
+AMD Radeon Pro W5500X,METAL,macOS,522.597
+AMD Radeon Pro W5700,HIP,Windows,765.16
+AMD Radeon Pro W5700,METAL,macOS,841.565
+AMD Radeon Pro W5700X,METAL,macOS,957.558
+AMD Radeon Pro W6900X,METAL,macOS,2151.363
+AMD Radeon Pro WX 7100,METAL,macOS,317.39
+AMD Radeon Pro WX 9100,METAL,macOS,643.02
+AMD Radeon R9 M370X,METAL,macOS,50.725
+AMD Radeon R9 M395X,METAL,macOS,149.42
+AMD Radeon RX 5500 XT,HIP,Windows,410.593
+AMD Radeon RX 5500 XT,METAL,macOS,432.527
+AMD Radeon RX 5600 XT,HIP,Windows,501.706
+AMD Radeon RX 570,METAL,macOS,262.18
+AMD Radeon RX 5700,HIP,Windows,644.608
+AMD Radeon RX 5700,METAL,macOS,762.345
+AMD Radeon RX 5700 XT,HIP,Windows,733.856
+AMD Radeon RX 5700 XT,METAL,macOS,822.441
+AMD Radeon RX 5700 XT 50th Anniversary,HIP,Windows,812.2
+AMD Radeon RX 580,METAL,macOS,386.52
+AMD Radeon RX 6500 XT,HIP,Windows,290.286
+AMD Radeon RX 6600,HIP,Windows,626.683
+AMD Radeon RX 6600 XT,HIP,Windows,849.687
+AMD Radeon RX 6600 XT,METAL,macOS,984.657
+AMD Radeon RX 6600M,HIP,Windows,809.8
+AMD Radeon RX 6700 XT,HIP,Windows,1184.195
+AMD Radeon RX 6700S,HIP,Windows,753.117
+AMD Radeon RX 6800,HIP,Windows,878.888
+AMD Radeon RX 6800 XT,HIP,Windows,1535.182
+AMD Radeon RX 6800 XT,METAL,macOS,2175.39
+AMD Radeon RX 6800M,HIP,Windows,1216.665
+AMD Radeon RX 6800S,HIP,Windows,878.66
+AMD Radeon RX 6900 XT,HIP,Windows,1929.957
+AMD Radeon RX 6900 XT,METAL,macOS,2045.645
+AMD Radeon RX Vega 56,METAL,macOS,640.393
+AMD Radeon RX Vega 64,METAL,macOS,755.35
+AMD Radeon VII,METAL,macOS,792.235
+AMD Ryzen 3 2200G with Radeon Vega Graphics,CPU,Windows,47.05
+AMD Ryzen 3 3100 4-Core Processor,CPU,Windows,82.132
+AMD Ryzen 3 3200G with Radeon Vega Graphics,CPU,Windows,45.058
+AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx,CPU,Linux,27.67
+AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx,CPU,Windows,19.252
+AMD Ryzen 3 3250U with Radeon Graphics,CPU,Windows,22.07
+AMD Ryzen 3 3300X 4-Core Processor,CPU,Linux,108.67
+AMD Ryzen 3 3300X 4-Core Processor,CPU,Windows,93.46
+AMD Ryzen 3 4300U with Radeon Graphics,CPU,Windows,42.18
+AMD Ryzen 3 5400U with Radeon Graphics,CPU,Windows,76.345
+AMD Ryzen 3 PRO 2100GE w/ Radeon Vega Graphics,CPU,Windows,27.635
+AMD Ryzen 5 1400 Quad-Core Processor,CPU,Windows,47.09
+AMD Ryzen 5 1500X Quad-Core Processor,CPU,Windows,70.12
+AMD Ryzen 5 1600 Six-Core Processor,CPU,Linux,125.582
+AMD Ryzen 5 1600 Six-Core Processor,CPU,Windows,99.211
+AMD Ryzen 5 1600X Six-Core Processor,CPU,Linux,106.75
+AMD Ryzen 5 1600X Six-Core Processor,CPU,Windows,107.372
+AMD Ryzen 5 2400G with Radeon Vega Graphics,CPU,Windows,67.542
+AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx,CPU,Linux,54.72
+AMD Ryzen 5 2600 Six-Core Processor,CPU,Linux,129.076
+AMD Ryzen 5 2600 Six-Core Processor,CPU,Windows,108.104
+AMD Ryzen 5 2600X Six-Core Processor,CPU,Linux,138.425
+AMD Ryzen 5 2600X Six-Core Processor,CPU,Windows,111.73
+AMD Ryzen 5 3400G with Radeon Vega Graphics,CPU,Windows,69.704
+AMD Ryzen 5 3400GE with Radeon Vega Graphics,CPU,Windows,67.48
+AMD Ryzen 5 3500 6-Core Processor,CPU,Windows,83.465
+AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx,CPU,Windows,35.62
+AMD Ryzen 5 3500X 6-Core Processor,CPU,Linux,112.93
+AMD Ryzen 5 3500X 6-Core Processor,CPU,Windows,75.59
+AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx,CPU,Windows,56.469
+AMD Ryzen 5 3600 6-Core Processor,CPU,Linux,152.926
+AMD Ryzen 5 3600 6-Core Processor,CPU,Windows,135.602
+AMD Ryzen 5 3600 6-Core Processor,CPU,macOS,157.03
+AMD Ryzen 5 3600X 6-Core Processor,CPU,Linux,156.32
+AMD Ryzen 5 3600X 6-Core Processor,CPU,Windows,140.228
+AMD Ryzen 5 3600XT 6-Core Processor,CPU,Windows,133.274
+AMD Ryzen 5 4500U with Radeon Graphics,CPU,Linux,73.115
+AMD Ryzen 5 4500U with Radeon Graphics,CPU,Windows,65.778
+AMD Ryzen 5 4600H with Radeon Graphics,CPU,Windows,101.127
+AMD Ryzen 5 5500U with Radeon Graphics,CPU,Linux,67.77
+AMD Ryzen 5 5500U with Radeon Graphics,CPU,Windows,87.689
+AMD Ryzen 5 5600 6-Core Processor,CPU,Windows,157.75
+AMD Ryzen 5 5600G with Radeon Graphics,CPU,Windows,150.008
+AMD Ryzen 5 5600H with Radeon Graphics,CPU,Linux,143.738
+AMD Ryzen 5 5600H with Radeon Graphics,CPU,Windows,112.684
+AMD Ryzen 5 5600U with Radeon Graphics,CPU,Windows,120.104
+AMD Ryzen 5 5600X 6-Core Processor,CPU,Linux,160.651
+AMD Ryzen 5 5600X 6-Core Processor,CPU,Windows,160.087
+AMD Ryzen 5 5625U with Radeon Graphics,CPU,Windows,115.48
+AMD Ryzen 5 PRO 4650G with Radeon Graphics,CPU,Linux,132.94
+AMD Ryzen 5 PRO 4650G with Radeon Graphics,CPU,Windows,135.973
+AMD Ryzen 5 PRO 4650GE with Radeon Graphics,CPU,Windows,132.47
+AMD Ryzen 7 1700 Eight-Core Processor,CPU,Linux,153.765
+AMD Ryzen 7 1700 Eight-Core Processor,CPU,Windows,126.687
+AMD Ryzen 7 1700 Eight-Core Processor,CPU,macOS,177.6
+AMD Ryzen 7 1700X Eight-Core Processor,CPU,Linux,162.1
+AMD Ryzen 7 1700X Eight-Core Processor,CPU,Windows,136.119
+AMD Ryzen 7 1800X Eight-Core Processor,,Linux,156.23
+AMD Ryzen 7 1800X Eight-Core Processor,CPU,Windows,137.288
+AMD Ryzen 7 2700 Eight-Core Processor,CPU,Windows,141.791
+AMD Ryzen 7 2700U with Radeon Vega Mobile Gfx,CPU,Windows,54.54
+AMD Ryzen 7 2700X Eight-Core Processor,CPU,Linux,185.384
+AMD Ryzen 7 2700X Eight-Core Processor,CPU,Windows,153.084
+AMD Ryzen 7 3700X 8-Core Processor,CPU,Linux,214.375
+AMD Ryzen 7 3700X 8-Core Processor,CPU,Windows,178.455
+AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx,CPU,Windows,63.11
+AMD Ryzen 7 3800X 8-Core Processor,CPU,Linux,233.037
+AMD Ryzen 7 3800X 8-Core Processor,CPU,Windows,178.687
+AMD Ryzen 7 3800XT 8-Core Processor,CPU,Windows,194.998
+AMD Ryzen 7 4700U with Radeon Graphics,,Linux,98.722
+AMD Ryzen 7 4700U with Radeon Graphics,CPU,Windows,106.258
+AMD Ryzen 7 4800H with Radeon Graphics,CPU,Linux,191.008
+AMD Ryzen 7 4800H with Radeon Graphics,CPU,Windows,161.363
+AMD Ryzen 7 4800HS with Radeon Graphics,CPU,Linux,191.33
+AMD Ryzen 7 4800HS with Radeon Graphics,CPU,Windows,162.827
+AMD Ryzen 7 5700G with Radeon Graphics,CPU,Linux,236.755
+AMD Ryzen 7 5700G with Radeon Graphics,CPU,Windows,211.078
+AMD Ryzen 7 5700GE with Radeon Graphics,CPU,Windows,178.76
+AMD Ryzen 7 5700U with Radeon Graphics,CPU,Linux,148.08
+AMD Ryzen 7 5700U with Radeon Graphics,CPU,Windows,112.613
+AMD Ryzen 7 5700X 8-Core Processor,CPU,Windows,222.461
+AMD Ryzen 7 5800 8-Core Processor,CPU,Windows,200.86
+AMD Ryzen 7 5800H with Radeon Graphics,CPU,Linux,154.579
+AMD Ryzen 7 5800H with Radeon Graphics,CPU,Windows,170.041
+AMD Ryzen 7 5800HS with Radeon Graphics,CPU,Windows,168.85
+AMD Ryzen 7 5800U with Radeon Graphics,CPU,Windows,141.837
+AMD Ryzen 7 5800X 8-Core Processor,CPU,Linux,238.907
+AMD Ryzen 7 5800X 8-Core Processor,CPU,Windows,219.34
+AMD Ryzen 7 5800X 8-Core Processor,CPU,macOS,238.55
+AMD Ryzen 7 5800X3D 8-Core Processor,CPU,Windows,246.065
+AMD Ryzen 7 6800H with Radeon Graphics,CPU,Windows,196.625
+AMD Ryzen 7 PRO 3700 8-Core Processor,CPU,Windows,115.19
+AMD Ryzen 7 PRO 4750G with Radeon Graphics,CPU,Linux,223.46
+AMD Ryzen 7 PRO 4750G with Radeon Graphics,CPU,Windows,184.76
+AMD Ryzen 7 PRO 4750U with Radeon Graphics,CPU,Windows,128.86
+AMD Ryzen 7 PRO 5850U with Radeon Graphics,,Windows,109.83
+AMD Ryzen 9 3900 12-Core Processor,,Windows,248.61
+AMD Ryzen 9 3900X 12-Core Processor,,Linux,323.913
+AMD Ryzen 9 3900X 12-Core Processor,CPU,Windows,275.615
+AMD Ryzen 9 3900XT 12-Core Processor,CPU,Linux,296.92
+AMD Ryzen 9 3900XT 12-Core Processor,CPU,Windows,278.001
+AMD Ryzen 9 3950X 16-Core Processor,CPU,Linux,439.939
+AMD Ryzen 9 3950X 16-Core Processor,CPU,Windows,360.047
+AMD Ryzen 9 3950X 16-Core Processor,CPU,macOS,432.52
+AMD Ryzen 9 4900H with Radeon Graphics,CPU,Windows,147.71
+AMD Ryzen 9 5900HS with Radeon Graphics,CPU,Windows,173.531
+AMD Ryzen 9 5900HX with Radeon Graphics,CPU,Linux,214.557
+AMD Ryzen 9 5900HX with Radeon Graphics,CPU,Windows,177.703
+AMD Ryzen 9 5900X 12-Core Processor,CPU,Linux,368.204
+AMD Ryzen 9 5900X 12-Core Processor,CPU,Windows,318.22
+AMD Ryzen 9 5950X 16-Core Processor,CPU,Linux,449.676
+AMD Ryzen 9 5950X 16-Core Processor,CPU,Windows,436.955
+AMD Ryzen 9 6900HS with Radeon Graphics,CPU,Windows,185.553
+AMD Ryzen Threadripper 1920X 12-Core Processor,CPU,Linux,242.107
+AMD Ryzen Threadripper 1920X 12-Core Processor,CPU,Windows,209.26
+AMD Ryzen Threadripper 1950X 16-Core Processor,CPU,Windows,266.333
+AMD Ryzen Threadripper 2920X 12-Core Processor,CPU,Linux,236.74
+AMD Ryzen Threadripper 2920X 12-Core Processor,CPU,Windows,222.796
+AMD Ryzen Threadripper 2950X 16-Core Processor,CPU,Windows,280.19
+AMD Ryzen Threadripper 2970WX 24-Core Processor,CPU,Windows,404.848
+AMD Ryzen Threadripper 2990WX 32-Core Processor,CPU,Windows,435.73
+AMD Ryzen Threadripper 3960X 24-Core Processor,,Linux,639.48
+AMD Ryzen Threadripper 3960X 24-Core Processor,CPU,Windows,545.523
+AMD Ryzen Threadripper 3970X 32-Core Processor,CPU,Linux,822.828
+AMD Ryzen Threadripper 3970X 32-Core Processor,,Windows,701.313
+AMD Ryzen Threadripper 3990X 64-Core Processor,CPU,Windows,1089.488
+AMD Ryzen Threadripper PRO 3945WX 12-Cores,CPU,Windows,270.86
+AMD Ryzen Threadripper PRO 3955WX 16-Cores,CPU,Windows,377.69
+AMD Ryzen Threadripper PRO 3975WX 32-Cores,CPU,Linux,801.27
+AMD Ryzen Threadripper PRO 3975WX 32-Cores,CPU,Windows,688.65
+AMD Ryzen Threadripper PRO 3995WX 64-Cores,CPU,Windows,1001.588
+AMD Ryzen Threadripper PRO 5995WX 64-Cores,CPU,Windows,1121.92
+Apple M1,CPU,macOS,100.632
+Apple M1 (GPU),METAL,macOS,161523.418
+Apple M1 Max,CPU,macOS,187.595
+Apple M1 Max (GPU),METAL,macOS,676.81
+Apple M1 Pro,CPU,macOS,170.376
+Apple M1 Pro (GPU),METAL,macOS,351.088
+Apple M1 Ultra,CPU,macOS,378.408
+Apple M1 Ultra (GPU),METAL,macOS,1055.479
+GRID K520,CUDA,Linux,187.05
+Genuine Intel CPU 0000 @ 2.00GHz,CPU,Windows,145.915
+Genuine Intel CPU 0000 @ 2.10GHz,CPU,Windows,176.908
+Genuine Intel CPU 0000 @ 2.50GHz,CPU,Windows,193.72
+Genuine Intel CPU 0000%@,CPU,Windows,578.35
+Genuine Intel CPU @ 2.20GHz,CPU,Windows,145.61
+Genuine Intel CPU @ 2.30GHz,CPU,Windows,162.41
+High Performance Datacenter vCPU,CPU,Linux,197.51
+Intel Celeron CPU 1037U @ 1.80GHz,CPU,Windows,5.8
+Intel Celeron CPU 3215U @ 1.70GHz,CPU,Windows,6.74
+Intel Celeron CPU J3455 @ 1.50GHz,CPU,Windows,10.08
+Intel Celeron G6900,CPU,Linux,36.91
+Intel Celeron J4125 CPU @ 2.00GHz,CPU,Windows,13.57
+"Intel Core Processor (Haswell, no TSX)",CPU,Windows,32.32
+Intel Core i3-1000NG4 CPU @ 1.10GHz,CPU,macOS,17.09
+Intel Core i3-1005G1 CPU @ 1.20GHz,CPU,Windows,22.11
+Intel Core i3-10100 CPU @ 3.60GHz,CPU,Windows,74.772
+Intel Core i3-10100 CPU @ 3.60GHz,CPU,macOS,94.15
+Intel Core i3-10100F CPU @ 3.60GHz,CPU,Linux,96.103
+Intel Core i3-10100F CPU @ 3.60GHz,CPU,Windows,77.85
+Intel Core i3-10105 CPU @ 3.70GHz,CPU,Windows,82.77
+Intel Core i3-10105F CPU @ 3.70GHz,CPU,Windows,86.29
+Intel Core i3-10110U CPU @ 2.10GHz,CPU,Windows,23.468
+Intel Core i3-1115G4 @ 3.00GHz,CPU,Windows,26.116
+Intel Core i3-2100 CPU @ 3.10GHz,CPU,Windows,16.43
+Intel Core i3-2350M CPU @ 2.30GHz,CPU,Windows,8.77
+Intel Core i3-3120M CPU @ 2.50GHz,CPU,Windows,14.03
+Intel Core i3-4000M CPU @ 2.40GHz,CPU,Windows,19.72
+Intel Core i3-4005U CPU @ 1.70GHz,CPU,Windows,10.44
+Intel Core i3-4130 CPU @ 3.40GHz,CPU,Linux,34.61
+Intel Core i3-4130 CPU @ 3.40GHz,CPU,Windows,25.2
+Intel Core i3-4160 CPU @ 3.60GHz,CPU,Windows,21.47
+Intel Core i3-4160T CPU @ 3.10GHz,CPU,Windows,25.4
+Intel Core i3-5005U CPU @ 2.00GHz,CPU,Linux,14.99
+Intel Core i3-5005U CPU @ 2.00GHz,CPU,Windows,12.907
+Intel Core i3-5010U CPU @ 2.10GHz,CPU,Windows,10.87
+Intel Core i3-6006U CPU @ 2.00GHz,CPU,Windows,15.572
+Intel Core i3-6100U CPU @ 2.30GHz,CPU,Windows,17.28
+Intel Core i3-7020U CPU @ 2.30GHz,CPU,Windows,18.08
+Intel Core i3-8100B CPU @ 3.60GHz,CPU,macOS,40.45
+Intel Core i3-8145U CPU @ 2.10GHz,CPU,Windows,17.075
+Intel Core i3-9100 CPU @ 3.60GHz,CPU,Windows,59.13
+Intel Core i3-9100F CPU @ 3.60GHz,CPU,Windows,21.007
+Intel Core i5 CPU         650  @ 3.20GHz,CPU,Windows,15.33
+Intel Core i5 CPU         660  @ 3.33GHz,CPU,Windows,13.58
+Intel Core i5 CPU       M 520  @ 2.40GHz,CPU,Windows,10.75
+Intel Core i5-10200H CPU @ 2.40GHz,CPU,Windows,65.45
+Intel Core i5-10210U CPU @ 1.60GHz,CPU,Linux,31.252
+Intel Core i5-10210U CPU @ 1.60GHz,CPU,Windows,44.395
+Intel Core i5-10300H CPU @ 2.50GHz,CPU,Windows,66.478
+Intel Core i5-1030NG7 CPU @ 1.10GHz,CPU,macOS,39.59
+Intel Core i5-1035G1 CPU @ 1.00GHz,CPU,Windows,30.236
+Intel Core i5-1035G4 CPU @ 1.10GHz,CPU,Windows,37.737
+Intel Core i5-1035G7 CPU @ 1.20GHz,CPU,Windows,34.76
+Intel Core i5-1038NG7 CPU @ 2.00GHz,CPU,macOS,66.452
+Intel Core i5-10400 CPU @ 2.90GHz,CPU,Linux,142.107
+Intel Core i5-10400 CPU @ 2.90GHz,CPU,Windows,113.572
+Intel Core i5-10400F CPU @ 2.90GHz,CPU,Linux,136.37
+Intel Core i5-10400F CPU @ 2.90GHz,CPU,Windows,118.54
+Intel Core i5-10500 CPU @ 3.10GHz,CPU,Windows,116.005
+Intel Core i5-10500 CPU @ 3.10GHz,CPU,macOS,140.05
+Intel Core i5-10500H CPU @ 2.50GHz,CPU,Windows,94.97
+Intel Core i5-10600 CPU @ 3.30GHz,CPU,Windows,137.83
+Intel Core i5-10600 CPU @ 3.30GHz,CPU,macOS,133.49
+Intel Core i5-10600K CPU @ 4.10GHz,CPU,Windows,130.885
+Intel Core i5-10600KF CPU @ 4.10GHz,CPU,Windows,142.33
+Intel Core i5-11260H @ 2.60GHz,CPU,Windows,116.09
+Intel Core i5-11300H @ 3.10GHz,CPU,Windows,47.48
+Intel Core i5-11320H @ 3.20GHz,CPU,Windows,94.66
+Intel Core i5-1135G7 @ 2.40GHz,CPU,Linux,82.815
+Intel Core i5-1135G7 @ 2.40GHz,CPU,Windows,60.704
+Intel Core i5-11400 @ 2.60GHz,CPU,Windows,123.45
+Intel Core i5-11400F @ 2.60GHz,CPU,Windows,123.584
+Intel Core i5-11400H @ 2.70GHz,CPU,Windows,108.748
+Intel Core i5-1145G7 @ 2.60GHz,CPU,Windows,28.7
+Intel Core i5-11500 @ 2.70GHz,CPU,Linux,146.56
+Intel Core i5-11500 @ 2.70GHz,CPU,Windows,121.02
+Intel Core i5-11600K @ 3.90GHz,CPU,Windows,160.716
+Intel Core i5-11600KF @ 3.90GHz,CPU,Windows,157.637
+Intel Core i5-12400,CPU,Windows,166.117
+Intel Core i5-12400F,CPU,Linux,183.67
+Intel Core i5-12400F,CPU,Windows,167.761
+Intel Core i5-12450H,CPU,Windows,120.92
+Intel Core i5-12500,CPU,Linux,191.747
+Intel Core i5-12500,CPU,Windows,161.199
+Intel Core i5-12600,CPU,Linux,204.89
+Intel Core i5-12600K,CPU,Linux,249.248
+Intel Core i5-12600K,CPU,Windows,234.337
+Intel Core i5-12600KF,CPU,Linux,240.23
+Intel Core i5-12600KF,CPU,Windows,218.111
+Intel Core i5-2320 CPU @ 3.00GHz,CPU,Windows,27.62
+Intel Core i5-2400 CPU @ 3.10GHz,CPU,Windows,26.65
+Intel Core i5-2400S CPU @ 2.50GHz,CPU,macOS,30.22
+Intel Core i5-2500 CPU @ 3.30GHz,CPU,Linux,35.34
+Intel Core i5-2500K CPU @ 3.30GHz,CPU,Linux,34.3
+Intel Core i5-2500K CPU @ 3.30GHz,CPU,Windows,40.344
+Intel Core i5-2520M CPU @ 2.50GHz,CPU,Linux,15.81
+Intel Core i5-2520M CPU @ 2.50GHz,CPU,macOS,20.93
+Intel Core i5-3210M CPU @ 2.50GHz,CPU,macOS,18.863
+Intel Core i5-3230M CPU @ 2.60GHz,CPU,Windows,14.145
+Intel Core i5-3317U CPU @ 1.70GHz,CPU,Windows,10.44
+Intel Core i5-3320M CPU @ 2.60GHz,CPU,Linux,23
+Intel Core i5-3320M CPU @ 2.60GHz,CPU,Windows,18.815
+Intel Core i5-3330S CPU @ 2.70GHz,CPU,Windows,28.07
+Intel Core i5-3470 CPU @ 3.20GHz,CPU,Linux,38.13
+Intel Core i5-3470 CPU @ 3.20GHz,CPU,Windows,31.895
+Intel Core i5-3470 CPU @ 3.20GHz,CPU,macOS,38.035
+Intel Core i5-3470T CPU @ 2.90GHz,CPU,Windows,14.19
+Intel Core i5-3570 CPU @ 3.40GHz,CPU,Linux,33.07
+Intel Core i5-3570 CPU @ 3.40GHz,CPU,Windows,31.92
+Intel Core i5-3570K CPU @ 3.40GHz,CPU,Windows,34.365
+Intel Core i5-4200U CPU @ 1.60GHz,CPU,Windows,19.033
+Intel Core i5-4210U CPU @ 1.70GHz,CPU,Linux,23.08
+Intel Core i5-4210U CPU @ 1.70GHz,CPU,Windows,11.64
+Intel Core i5-4278U CPU @ 2.60GHz,CPU,macOS,24.795
+Intel Core i5-4288U CPU @ 2.60GHz,CPU,Windows,13.29
+Intel Core i5-4288U CPU @ 2.60GHz,CPU,macOS,21.35
+Intel Core i5-4310U CPU @ 2.00GHz,CPU,Windows,22.61
+Intel Core i5-4430 CPU @ 3.00GHz,CPU,Windows,41.65
+Intel Core i5-4440 CPU @ 3.10GHz,CPU,Windows,38.615
+Intel Core i5-4460  CPU @ 3.20GHz,CPU,Windows,41.952
+Intel Core i5-4570 CPU @ 3.20GHz,CPU,Windows,42.468
+Intel Core i5-4570 CPU @ 3.20GHz,CPU,macOS,44.1
+Intel Core i5-4590 CPU @ 3.30GHz,CPU,Windows,49.2
+Intel Core i5-4590S CPU @ 3.00GHz,CPU,Linux,53.93
+Intel Core i5-4590T CPU @ 2.00GHz,CPU,Windows,34.59
+Intel Core i5-4670 CPU @ 3.40GHz,CPU,Windows,49.915
+Intel Core i5-4690 CPU @ 3.50GHz,CPU,Windows,44.17
+Intel Core i5-4690 CPU @ 3.50GHz,CPU,macOS,47.94
+Intel Core i5-4690K CPU @ 3.50GHz,CPU,Windows,51.643
+Intel Core i5-5200U CPU @ 2.20GHz,CPU,Windows,17.61
+Intel Core i5-5250U CPU @ 1.60GHz,CPU,macOS,16.79
+Intel Core i5-5257U CPU @ 2.70GHz,CPU,macOS,28.613
+Intel Core i5-5287U CPU @ 2.90GHz,CPU,macOS,28.73
+Intel Core i5-5300U CPU @ 2.30GHz,CPU,Windows,24.25
+Intel Core i5-5300U CPU @ 2.30GHz,CPU,macOS,20.57
+Intel Core i5-5350U CPU @ 1.80GHz,CPU,macOS,15.74
+Intel Core i5-6200U CPU @ 2.30GHz,CPU,Windows,22.35
+Intel Core i5-6300HQ CPU @ 2.30GHz,CPU,Windows,34.76
+Intel Core i5-6360U CPU @ 2.00GHz,CPU,macOS,26.97
+Intel Core i5-6400 CPU @ 2.70GHz,CPU,Windows,43.06
+Intel Core i5-6500 CPU @ 3.20GHz,CPU,Windows,44.982
+Intel Core i5-6500 CPU @ 3.20GHz,CPU,macOS,52.11
+Intel Core i5-6600 CPU @ 3.30GHz,CPU,Windows,42.97
+Intel Core i5-6600K CPU @ 3.50GHz,CPU,Windows,12
+Intel Core i5-7200U CPU @ 2.50GHz,CPU,Linux,35.461
+Intel Core i5-7200U CPU @ 2.50GHz,CPU,Windows,21.034
+Intel Core i5-7300HQ CPU @ 2.50GHz,CPU,Linux,35.035
+Intel Core i5-7300HQ CPU @ 2.50GHz,CPU,Windows,44.493
+Intel Core i5-7300U CPU @ 2.60GHz,CPU,Windows,12.51
+Intel Core i5-7360U CPU @ 2.30GHz,CPU,macOS,30.96
+Intel Core i5-7400 CPU @ 3.00GHz,CPU,Windows,46.12
+Intel Core i5-7400 CPU @ 3.00GHz,CPU,macOS,49.57
+Intel Core i5-7500 CPU @ 3.40GHz,CPU,Linux,61.37
+Intel Core i5-7500 CPU @ 3.40GHz,CPU,Windows,48.297
+Intel Core i5-7500 CPU @ 3.40GHz,CPU,macOS,57.23
+Intel Core i5-7600 CPU @ 3.50GHz,CPU,Windows,51.415
+Intel Core i5-7600 CPU @ 3.50GHz,CPU,macOS,52.36
+Intel Core i5-7600K CPU @ 3.80GHz,CPU,Windows,57.853
+Intel Core i5-7600K CPU @ 3.80GHz,CPU,macOS,51.6
+Intel Core i5-8210Y CPU @ 1.60GHz,CPU,macOS,23.38
+Intel Core i5-8250U CPU @ 1.60GHz,CPU,Linux,62.58
+Intel Core i5-8250U CPU @ 1.60GHz,CPU,Windows,40.406
+Intel Core i5-8257U CPU @ 1.40GHz,CPU,Linux,58.92
+Intel Core i5-8257U CPU @ 1.40GHz,CPU,macOS,57.994
+Intel Core i5-8259U CPU @ 2.30GHz,CPU,macOS,61.066
+Intel Core i5-8265U CPU @ 1.60GHz,CPU,Windows,39.793
+Intel Core i5-8300H CPU @ 2.30GHz,CPU,Windows,55.05
+Intel Core i5-8350U CPU @ 1.70GHz,CPU,Windows,45.44
+Intel Core i5-8400 CPU @ 2.80GHz,CPU,Windows,79.843
+Intel Core i5-8500 CPU @ 3.00GHz,CPU,Linux,89.165
+Intel Core i5-8500 CPU @ 3.00GHz,CPU,macOS,97.3
+Intel Core i5-8500B CPU @ 3.00GHz,CPU,macOS,78.235
+Intel Core i5-8600K CPU @ 3.60GHz,CPU,Linux,93.5
+Intel Core i5-8600K CPU @ 3.60GHz,CPU,Windows,97.428
+Intel Core i5-9300H CPU @ 2.40GHz,CPU,Windows,67.595
+Intel Core i5-9300HF CPU @ 2.40GHz,CPU,Windows,60.6
+Intel Core i5-9400 CPU @ 2.90GHz,CPU,Windows,80.147
+Intel Core i5-9400F CPU @ 2.90GHz,CPU,Linux,98.96
+Intel Core i5-9400F CPU @ 2.90GHz,CPU,Windows,76.244
+Intel Core i5-9500 CPU @ 3.00GHz,CPU,Windows,63.61
+Intel Core i5-9500F CPU @ 3.00GHz,CPU,Windows,95.1
+Intel Core i5-9600K CPU @ 3.70GHz,CPU,Linux,109.22
+Intel Core i5-9600K CPU @ 3.70GHz,CPU,Windows,93.849
+Intel Core i5-9600K CPU @ 3.70GHz,CPU,macOS,94.66
+Intel Core i5-9600KF CPU @ 3.70GHz,CPU,Windows,93.337
+Intel Core i7 CPU         920  @ 2.67GHz,CPU,Linux,32.99
+Intel Core i7 CPU         920  @ 2.67GHz,CPU,Windows,29.43
+Intel Core i7 CPU       M 620  @ 2.67GHz,CPU,Linux,18.44
+Intel Core i7 CPU       M 620  @ 2.67GHz,CPU,macOS,13.11
+Intel Core i7 CPU       X 980  @ 3.33GHz,CPU,Linux,68.58
+Intel Core i7 CPU       X 980  @ 3.33GHz,CPU,Windows,51.39
+Intel Core i7-10510U CPU @ 1.80GHz,CPU,Linux,46.5
+Intel Core i7-10510U CPU @ 1.80GHz,CPU,Windows,43.986
+Intel Core i7-1060NG7 CPU @ 1.20GHz,CPU,macOS,46.87
+Intel Core i7-1065G7 CPU @ 1.30GHz,CPU,Windows,38.38
+Intel Core i7-1068NG7 CPU @ 2.30GHz,CPU,macOS,76.312
+Intel Core i7-10700 CPU @ 2.90GHz,CPU,Windows,152.647
+Intel Core i7-10700 CPU @ 2.90GHz,CPU,macOS,214.86
+Intel Core i7-10700F CPU @ 2.90GHz,CPU,Windows,147.881
+Intel Core i7-10700K CPU @ 3.80GHz,CPU,Windows,178.593
+Intel Core i7-10700K CPU @ 3.80GHz,CPU,macOS,192.178
+Intel Core i7-10700KF CPU @ 3.80GHz,CPU,Windows,193.795
+Intel Core i7-10750H CPU @ 2.60GHz,CPU,Linux,107.693
+Intel Core i7-10750H CPU @ 2.60GHz,CPU,Windows,94.036
+Intel Core i7-10850H CPU @ 2.70GHz,CPU,Windows,109.59
+Intel Core i7-10870H CPU @ 2.20GHz,CPU,Windows,130.981
+Intel Core i7-10875H CPU @ 2.30GHz,CPU,Windows,123.693
+Intel Core i7-11370H @ 3.30GHz,CPU,Windows,80.39
+Intel Core i7-11390H @ 3.40GHz,CPU,Windows,53.83
+Intel Core i7-11600H @ 2.90GHz,CPU,Windows,103.33
+Intel Core i7-1160G7 @ 1.20GHz,CPU,Windows,48.06
+Intel Core i7-1165G7 @ 2.80GHz,CPU,Linux,66.755
+Intel Core i7-1165G7 @ 2.80GHz,CPU,Windows,59.061
+Intel Core i7-11700 @ 2.50GHz,CPU,Windows,133.44
+Intel Core i7-11700B @ 3.20GHz,CPU,Windows,172.35
+Intel Core i7-11700F @ 2.50GHz,CPU,Windows,161.748
+Intel Core i7-11700K @ 3.60GHz,CPU,Linux,249.31
+Intel Core i7-11700K @ 3.60GHz,CPU,Windows,207.461
+Intel Core i7-11700KF @ 3.60GHz,CPU,Linux,248.95
+Intel Core i7-11700KF @ 3.60GHz,CPU,Windows,210.179
+Intel Core i7-11800H @ 2.30GHz,CPU,Linux,158.628
+Intel Core i7-11800H @ 2.30GHz,CPU,Windows,161.119
+Intel Core i7-11850H @ 2.50GHz,CPU,Linux,150.78
+Intel Core i7-1185G7 @ 3.00GHz,CPU,Windows,63.557
+Intel Core i7-1195G7 @ 2.90GHz,CPU,Windows,47.055
+Intel Core i7-12700,CPU,Linux,336.39
+Intel Core i7-12700,CPU,Windows,240.062
+Intel Core i7-12700F,CPU,Linux,349.965
+Intel Core i7-12700F,CPU,Windows,277.864
+Intel Core i7-12700H,CPU,Windows,192.385
+Intel Core i7-12700K,CPU,Linux,349.008
+Intel Core i7-12700K,CPU,Windows,305.477
+Intel Core i7-12700K,CPU,macOS,338.265
+Intel Core i7-12700KF,CPU,Windows,304.912
+Intel Core i7-12800H,CPU,Windows,192.03
+Intel Core i7-1280P,CPU,Windows,204.655
+Intel Core i7-2600 CPU @ 3.40GHz,CPU,Windows,33.11
+Intel Core i7-2600K CPU @ 3.40GHz,CPU,Linux,56.905
+Intel Core i7-2600K CPU @ 3.40GHz,CPU,Windows,48.89
+Intel Core i7-2620M CPU @ 2.70GHz,CPU,Linux,16.21
+Intel Core i7-2620M CPU @ 2.70GHz,CPU,Windows,17.13
+Intel Core i7-2700K CPU @ 3.50GHz,CPU,Windows,44.817
+Intel Core i7-2760QM CPU @ 2.40GHz,CPU,macOS,32.08
+Intel Core i7-3520M CPU @ 2.90GHz,CPU,Linux,25.68
+Intel Core i7-3520M CPU @ 2.90GHz,CPU,Windows,15.14
+Intel Core i7-3520M CPU @ 2.90GHz,CPU,macOS,18.25
+Intel Core i7-3615QM CPU @ 2.30GHz,CPU,macOS,45.247
+Intel Core i7-3630QM CPU @ 2.40GHz,CPU,Windows,33.36
+Intel Core i7-3632QM CPU @ 2.20GHz,CPU,Windows,30.93
+Intel Core i7-3667U CPU @ 2.00GHz,CPU,macOS,13.29
+Intel Core i7-3720QM CPU @ 2.60GHz,CPU,Windows,44.41
+Intel Core i7-3720QM CPU @ 2.60GHz,CPU,macOS,45.402
+Intel Core i7-3770 CPU @ 3.40GHz,CPU,Windows,47.951
+Intel Core i7-3770 CPU @ 3.40GHz,CPU,macOS,45.22
+Intel Core i7-3770K CPU @ 3.50GHz,CPU,Windows,49.008
+Intel Core i7-3840QM CPU @ 2.80GHz,CPU,Windows,46.81
+Intel Core i7-3930K CPU @ 3.20GHz,CPU,Windows,67.76
+Intel Core i7-3960X CPU @ 3.30GHz,CPU,Windows,59.397
+Intel Core i7-4510U CPU @ 2.00GHz,CPU,Windows,20.69
+Intel Core i7-4578U CPU @ 3.00GHz,CPU,macOS,9.67
+Intel Core i7-4600M CPU @ 2.90GHz,CPU,Windows,22.77
+Intel Core i7-4600U CPU @ 2.10GHz,CPU,Windows,14.34
+Intel Core i7-4700HQ CPU @ 2.40GHz,CPU,Linux,64.42
+Intel Core i7-4700HQ CPU @ 2.40GHz,CPU,Windows,31.68
+Intel Core i7-4700MQ CPU @ 2.40GHz,CPU,Windows,49.633
+Intel Core i7-4710HQ CPU @ 2.50GHz,CPU,Windows,49.17
+Intel Core i7-4720HQ CPU @ 2.60GHz,CPU,,48.808
+Intel Core i7-4750HQ CPU @ 2.00GHz,CPU,macOS,51.215
+Intel Core i7-4765T CPU @ 2.00GHz,CPU,Windows,44.71
+Intel Core i7-4770 CPU @ 3.40GHz,CPU,Windows,66.52
+Intel Core i7-4770HQ CPU @ 2.20GHz,CPU,macOS,58.07
+Intel Core i7-4770K CPU @ 3.50GHz,CPU,Linux,83.7
+Intel Core i7-4770K CPU @ 3.50GHz,CPU,Windows,62.715
+Intel Core i7-4770S CPU @ 3.10GHz,CPU,macOS,73.72
+Intel Core i7-4771 CPU @ 3.50GHz,CPU,Windows,57.123
+Intel Core i7-4771 CPU @ 3.50GHz,CPU,macOS,60.035
+Intel Core i7-4790 CPU @ 3.60GHz,CPU,Windows,62.528
+Intel Core i7-4790K CPU @ 4.00GHz,CPU,Linux,90.92
+Intel Core i7-4790K CPU @ 4.00GHz,CPU,Windows,72.343
+Intel Core i7-4790K CPU @ 4.00GHz,CPU,macOS,65.11
+Intel Core i7-4800MQ CPU @ 2.70GHz,CPU,Windows,50.59
+Intel Core i7-4810MQ CPU @ 2.80GHz,CPU,Windows,52.275
+Intel Core i7-4820K CPU @ 3.70GHz,CPU,Windows,46.26
+Intel Core i7-4850HQ CPU @ 2.30GHz,CPU,macOS,60.01
+Intel Core i7-4870HQ CPU @ 2.50GHz,CPU,macOS,54.463
+Intel Core i7-4980HQ CPU @ 2.80GHz,CPU,macOS,68.69
+Intel Core i7-5500U CPU @ 2.40GHz,CPU,Windows,17.805
+Intel Core i7-5600U CPU @ 2.60GHz,CPU,Windows,26.79
+Intel Core i7-5650U CPU @ 2.20GHz,CPU,macOS,21.59
+Intel Core i7-5820K CPU @ 3.30GHz,CPU,Windows,95.44
+Intel Core i7-5930K CPU @ 3.50GHz,CPU,Linux,112.87
+Intel Core i7-5930K CPU @ 3.50GHz,CPU,Windows,89.813
+Intel Core i7-5960X CPU @ 3.00GHz,CPU,Windows,122.647
+Intel Core i7-6500U CPU @ 2.50GHz,CPU,Linux,30.63
+Intel Core i7-6500U CPU @ 2.50GHz,CPU,Windows,25.82
+Intel Core i7-6700 CPU @ 3.40GHz,CPU,Windows,72.059
+Intel Core i7-6700 CPU @ 3.40GHz,CPU,macOS,75
+Intel Core i7-6700HQ CPU @ 2.60GHz,CPU,Linux,68.545
+Intel Core i7-6700HQ CPU @ 2.60GHz,CPU,Windows,57.538
+Intel Core i7-6700HQ CPU @ 2.60GHz,CPU,macOS,63.757
+Intel Core i7-6700K CPU @ 4.00GHz,CPU,Linux,96.34
+Intel Core i7-6700K CPU @ 4.00GHz,CPU,Windows,79.157
+Intel Core i7-6700K CPU @ 4.00GHz,CPU,macOS,84.658
+Intel Core i7-6700T CPU @ 2.80GHz,CPU,Windows,16.71
+Intel Core i7-6820HK CPU @ 2.70GHz,CPU,Linux,62.37
+Intel Core i7-6820HK CPU @ 2.70GHz,CPU,Windows,61.583
+Intel Core i7-6820HQ CPU @ 2.70GHz,CPU,Windows,59.02
+Intel Core i7-6820HQ CPU @ 2.70GHz,CPU,macOS,66.063
+Intel Core i7-6900K CPU @ 3.20GHz,CPU,Linux,180.353
+Intel Core i7-6900K CPU @ 3.20GHz,CPU,Windows,135.29
+Intel Core i7-6920HQ CPU @ 2.90GHz,CPU,Windows,40.78
+Intel Core i7-6950X CPU @ 3.00GHz,CPU,,207.06
+Intel Core i7-7500U CPU @ 2.70GHz,CPU,Linux,34.542
+Intel Core i7-7500U CPU @ 2.70GHz,CPU,Windows,25.657
+Intel Core i7-7560U CPU @ 2.40GHz,CPU,Windows,27.12
+Intel Core i7-7660U CPU @ 2.50GHz,CPU,macOS,39.22
+Intel Core i7-7700 CPU @ 3.60GHz,CPU,Linux,93.34
+Intel Core i7-7700 CPU @ 3.60GHz,CPU,Windows,77.831
+Intel Core i7-7700 CPU @ 3.60GHz,CPU,macOS,93.68
+Intel Core i7-7700HQ CPU @ 2.80GHz,CPU,Linux,77.356
+Intel Core i7-7700HQ CPU @ 2.80GHz,CPU,Windows,63.02
+Intel Core i7-7700HQ CPU @ 2.80GHz,CPU,macOS,73.119
+Intel Core i7-7700K CPU @ 4.20GHz,CPU,Linux,92.02
+Intel Core i7-7700K CPU @ 4.20GHz,CPU,Windows,80.524
+Intel Core i7-7700K CPU @ 4.20GHz,CPU,macOS,89.889
+Intel Core i7-7820HQ CPU @ 2.90GHz,CPU,Linux,82.3
+Intel Core i7-7820HQ CPU @ 2.90GHz,CPU,Windows,48.48
+Intel Core i7-7820HQ CPU @ 2.90GHz,CPU,macOS,70.883
+Intel Core i7-7820X CPU @ 3.60GHz,CPU,Linux,186.222
+Intel Core i7-7820X CPU @ 3.60GHz,CPU,Windows,156.82
+Intel Core i7-8086K CPU @ 4.00GHz,CPU,Linux,159.93
+Intel Core i7-8550U CPU @ 1.80GHz,CPU,Linux,52.893
+Intel Core i7-8550U CPU @ 1.80GHz,CPU,Windows,39.581
+Intel Core i7-8559U CPU @ 2.70GHz,CPU,Linux,78.03
+Intel Core i7-8565U CPU @ 1.80GHz,CPU,Linux,62.535
+Intel Core i7-8565U CPU @ 1.80GHz,CPU,Windows,43.108
+Intel Core i7-8569U CPU @ 2.80GHz,CPU,macOS,71.9
+Intel Core i7-8650U CPU @ 1.90GHz,CPU,Linux,64.918
+Intel Core i7-8650U CPU @ 1.90GHz,CPU,Windows,54.33
+Intel Core i7-8700 CPU @ 3.20GHz,CPU,Linux,123.94
+Intel Core i7-8700 CPU @ 3.20GHz,CPU,Windows,118.286
+Intel Core i7-8700B CPU @ 3.20GHz,CPU,Windows,98.38
+Intel Core i7-8700B CPU @ 3.20GHz,CPU,macOS,115.62
+Intel Core i7-8700K CPU @ 3.70GHz,CPU,Linux,136.8
+Intel Core i7-8700K CPU @ 3.70GHz,CPU,Windows,124.35
+Intel Core i7-8700K CPU @ 3.70GHz,CPU,macOS,170.78
+Intel Core i7-8750H CPU @ 2.20GHz,CPU,Linux,93.412
+Intel Core i7-8750H CPU @ 2.20GHz,CPU,Windows,77.12
+Intel Core i7-8750H CPU @ 2.20GHz,CPU,macOS,96.203
+Intel Core i7-8850H CPU @ 2.60GHz,CPU,Windows,79.17
+Intel Core i7-8850H CPU @ 2.60GHz,CPU,macOS,96.77
+Intel Core i7-9700 CPU @ 3.00GHz,CPU,Windows,105.527
+Intel Core i7-9700 CPU @ 3.00GHz,CPU,,158.06
+Intel Core i7-9700F CPU @ 3.00GHz,CPU,Windows,115.075
+Intel Core i7-9700K CPU @ 3.60GHz,CPU,Linux,155.85
+Intel Core i7-9700K CPU @ 3.60GHz,CPU,Windows,127.894
+Intel Core i7-9750H CPU @ 2.60GHz,CPU,Linux,88.01
+Intel Core i7-9750H CPU @ 2.60GHz,CPU,Windows,78.126
+Intel Core i7-9750H CPU @ 2.60GHz,CPU,macOS,113.148
+Intel Core i7-9750HF CPU @ 2.60GHz,CPU,Windows,67.95
+Intel Core i7-9800X CPU @ 3.80GHz,CPU,Windows,181.72
+Intel Core i7-9850H CPU @ 2.60GHz,CPU,Linux,105.268
+Intel Core i7-9850H CPU @ 2.60GHz,CPU,Windows,99.79
+Intel Core i9-10850K CPU @ 3.60GHz,CPU,Windows,234.762
+Intel Core i9-10850K CPU @ 3.60GHz,CPU,macOS,225.86
+Intel Core i9-10885H CPU @ 2.40GHz,CPU,Linux,64.075
+Intel Core i9-10900F CPU @ 2.80GHz,CPU,Windows,185.667
+Intel Core i9-10900K CPU @ 3.70GHz,CPU,Windows,230.885
+Intel Core i9-10900KF CPU @ 3.70GHz,CPU,Linux,279.51
+Intel Core i9-10900KF CPU @ 3.70GHz,CPU,Windows,231.497
+Intel Core i9-10900KF CPU @ 3.70GHz,CPU,macOS,268.09
+Intel Core i9-10900X CPU @ 3.70GHz,CPU,Linux,230.89
+Intel Core i9-10900X CPU @ 3.70GHz,CPU,Windows,206.05
+Intel Core i9-10910 CPU @ 3.60GHz,CPU,macOS,219.418
+Intel Core i9-10920X CPU @ 3.50GHz,CPU,Linux,268.13
+Intel Core i9-10920X CPU @ 3.50GHz,CPU,Windows,254.63
+Intel Core i9-10920X CPU @ 3.50GHz,CPU,macOS,253.06
+Intel Core i9-10980HK CPU @ 2.40GHz,CPU,Windows,140.334
+Intel Core i9-10980XE CPU @ 3.00GHz,CPU,Windows,353.232
+Intel Core i9-10980XE CPU @ 3.00GHz,CPU,macOS,423.575
+Intel Core i9-11900H @ 2.50GHz,CPU,Windows,165.836
+Intel Core i9-11900K @ 3.50GHz,CPU,Linux,240.75
+Intel Core i9-11900K @ 3.50GHz,CPU,Windows,217.228
+Intel Core i9-11900KF @ 3.50GHz,CPU,Windows,197.487
+Intel Core i9-11950H @ 2.60GHz,CPU,Windows,128.157
+Intel Core i9-11980HK @ 2.60GHz,CPU,Windows,164.812
+Intel Core i9-12900,CPU,Windows,194.76
+Intel Core i9-12900F,CPU,Windows,259.06
+Intel Core i9-12900H,CPU,Windows,219.167
+Intel Core i9-12900HK,CPU,Windows,243.035
+Intel Core i9-12900K,CPU,Linux,312.597
+Intel Core i9-12900K,CPU,,362.809
+Intel Core i9-12900KF,CPU,Windows,366.228
+Intel Core i9-12900KS,CPU,Windows,390.387
+Intel Core i9-7900X CPU @ 3.30GHz,CPU,Windows,226.933
+Intel Core i9-7920X CPU @ 2.90GHz,CPU,Windows,276.535
+Intel Core i9-7940X CPU @ 3.10GHz,CPU,Linux,311.52
+Intel Core i9-7940X CPU @ 3.10GHz,CPU,Windows,251.84
+Intel Core i9-7980XE CPU @ 2.60GHz,CPU,Linux,343.81
+Intel Core i9-7980XE CPU @ 2.60GHz,CPU,Windows,391.903
+Intel Core i9-8950HK CPU @ 2.90GHz,CPU,Windows,79.49
+Intel Core i9-8950HK CPU @ 2.90GHz,CPU,macOS,83.5
+Intel Core i9-9880H CPU @ 2.30GHz,CPU,macOS,134.367
+Intel Core i9-9900 CPU @ 3.10GHz,CPU,Windows,143.82
+Intel Core i9-9900K CPU @ 3.60GHz,CPU,Linux,194.36
+Intel Core i9-9900K CPU @ 3.60GHz,CPU,Windows,177.617
+Intel Core i9-9900K CPU @ 3.60GHz,CPU,macOS,181.429
+Intel Core i9-9900KF CPU @ 3.60GHz,CPU,Windows,180.887
+Intel Core i9-9900KS CPU @ 4.00GHz,CPU,Windows,171.86
+Intel Core i9-9900X CPU @ 3.50GHz,CPU,Windows,196.085
+Intel Core i9-9920X CPU @ 3.50GHz,CPU,Windows,241.48
+Intel Core i9-9960X CPU @ 3.10GHz,CPU,macOS,349.515
+Intel Core i9-9980HK CPU @ 2.40GHz,CPU,Linux,123.627
+Intel Core i9-9980HK CPU @ 2.40GHz,CPU,Windows,93.31
+Intel Core i9-9980HK CPU @ 2.40GHz,CPU,macOS,145.179
+Intel Core2 Duo CPU     E7600  @ 3.06GHz,CPU,Linux,11.44
+Intel Core2 Duo CPU     E7600  @ 3.06GHz,CPU,macOS,10.16
+Intel Core2 Duo CPU     E8400  @ 3.00GHz,CPU,Linux,10.18
+Intel Core2 Duo CPU     E8500  @ 3.16GHz,CPU,Linux,8.12
+Intel Core2 Duo CPU     T9600  @ 2.80GHz,CPU,Windows,4.3
+Intel Core2 Quad  CPU   Q8200  @ 2.33GHz,CPU,Windows,9.64
+Intel Core2 Quad CPU    Q8400  @ 2.66GHz,CPU,Windows,14.39
+Intel Core2 Quad CPU    Q9650  @ 3.00GHz,CPU,Windows,18.39
+Intel Pentium CPU        G6950  @ 2.80GHz,CPU,Windows,5.73
+Intel Pentium CPU 2020M @ 2.40GHz,CPU,Windows,11.22
+Intel Pentium CPU 6405U @ 2.40GHz,CPU,Windows,12.36
+Intel Pentium CPU G4400 @ 3.30GHz,CPU,Windows,10.785
+Intel Pentium Gold G5400 CPU @ 3.70GHz,CPU,Windows,29.45
+Intel Pentium Silver N5000 CPU @ 1.10GHz,CPU,Windows,8.61
+Intel Pentium Silver N5030 CPU @ 1.10GHz,CPU,Windows,8.94
+Intel Xeon CPU           E5520  @ 2.27GHz,CPU,Windows,21.48
+Intel Xeon CPU           W3530  @ 2.80GHz,CPU,macOS,37.28
+Intel Xeon CPU           W3680  @ 3.33GHz,CPU,macOS,68.584
+Intel Xeon CPU           W3690  @ 3.47GHz,CPU,Linux,72.24
+Intel Xeon CPU           X3450  @ 2.67GHz,CPU,Windows,39.82
+Intel Xeon CPU           X5690  @ 3.47GHz,CPU,,44.4
+Intel Xeon CPU @ 2.60GHz,CPU,Linux,362.83
+Intel Xeon CPU E3-1225 v5 @ 3.30GHz,CPU,Windows,43.61
+Intel Xeon CPU E3-1230 v6 @ 3.50GHz,CPU,Windows,75.06
+Intel Xeon CPU E3-1231 v3 @ 3.40GHz,CPU,Windows,66.69
+Intel Xeon CPU E3-1245 v3 @ 3.40GHz,CPU,Windows,61.31
+Intel Xeon CPU E3-1265L v3 @ 2.50GHz,CPU,Windows,49.32
+Intel Xeon CPU E3-1505M v5 @ 2.80GHz,CPU,Windows,39
+Intel Xeon CPU E31240 @ 3.30GHz,CPU,Windows,43.23
+Intel Xeon CPU E5-1603 0 @ 2.80GHz,CPU,Windows,24.44
+Intel Xeon CPU E5-1620 v2 @ 3.70GHz,CPU,Windows,44.81
+Intel Xeon CPU E5-1620 v3 @ 3.50GHz,CPU,Windows,61.11
+Intel Xeon CPU E5-1620 v4 @ 3.50GHz,CPU,Windows,66.24
+Intel Xeon CPU E5-1630 v4 @ 3.70GHz,CPU,Windows,68.62
+Intel Xeon CPU E5-1650 v2 @ 3.50GHz,CPU,Windows,76.9
+Intel Xeon CPU E5-1650 v2 @ 3.50GHz,CPU,macOS,84.516
+Intel Xeon CPU E5-1650 v3 @ 3.50GHz,CPU,Windows,84.93
+Intel Xeon CPU E5-1650 v4 @ 3.60GHz,CPU,Windows,98.92
+Intel Xeon CPU E5-1680 v2 @ 3.00GHz,CPU,macOS,102.18
+Intel Xeon CPU E5-2620 v3 @ 2.40GHz,CPU,Windows,69.917
+Intel Xeon CPU E5-2630 v3 @ 2.40GHz,CPU,Windows,117.84
+Intel Xeon CPU E5-2637 v2 @ 3.50GHz,CPU,Windows,48.37
+Intel Xeon CPU E5-2640 0 @ 2.50GHz,CPU,Linux,61.98
+Intel Xeon CPU E5-2660 v2 @ 2.20GHz,CPU,Windows,85.21
+Intel Xeon CPU E5-2666 v3 @ 2.90GHz,CPU,Windows,161.27
+Intel Xeon CPU E5-2667 v3 @ 3.20GHz,CPU,Windows,126.7
+Intel Xeon CPU E5-2670 v3 @ 2.30GHz,CPU,Windows,175.57
+Intel Xeon CPU E5-2678 v3 @ 2.50GHz,CPU,Windows,121.314
+Intel Xeon CPU E5-2680 0 @ 2.70GHz,CPU,Windows,74.23
+Intel Xeon CPU E5-2680 v2 @ 2.80GHz,CPU,Windows,94.11
+Intel Xeon CPU E5-2683 v4 @ 2.10GHz,CPU,Linux,225.705
+Intel Xeon CPU E5-2689 0 @ 2.60GHz,CPU,Windows,79.17
+Intel Xeon CPU E5-2690 0 @ 2.90GHz,CPU,Windows,85.56
+Intel Xeon CPU E5-2690 v2 @ 3.00GHz,CPU,,110.82
+Intel Xeon CPU E5-2697 v2 @ 2.70GHz,CPU,,118.9
+Intel Xeon CPU E5-2697 v2 @ 2.70GHz,CPU,macOS,133.312
+Intel Xeon CPU E5-2697 v3 @ 2.60GHz,CPU,,188.97
+Intel Xeon E-2176M  CPU @ 2.70GHz,CPU,Windows,87.14
+Intel Xeon Gold 5315Y CPU @ 3.20GHz,CPU,Linux,122.24
+Intel Xeon Gold 6142 CPU @ 2.60GHz,CPU,Windows,253.26
+Intel Xeon Gold 6242R CPU @ 3.10GHz,CPU,Windows,362.68
+Intel Xeon Gold 6342 CPU @ 2.80GHz,CPU,Linux,649.52
+Intel Xeon Platinum 8375C CPU @ 2.90GHz,CPU,Linux,372.41
+Intel Xeon W-1290P CPU @ 3.70GHz,CPU,Windows,248.69
+Intel Xeon W-2123 CPU @ 3.60GHz,CPU,Windows,73.54
+Intel Xeon W-2140B CPU @ 3.20GHz,CPU,macOS,167.104
+Intel Xeon W-2150B CPU @ 3.00GHz,CPU,macOS,199.252
+Intel Xeon W-2191B CPU @ 2.30GHz,CPU,macOS,315.625
+Intel Xeon W-2265 CPU @ 3.50GHz,CPU,Windows,235.56
+Intel Xeon W-3223 CPU @ 3.50GHz,CPU,macOS,162.775
+Intel Xeon W-3235 CPU @ 3.30GHz,CPU,macOS,255.42
+Intel Xeon W-3245 CPU @ 3.20GHz,CPU,macOS,313.942
+Intel Xeon W-3275M CPU @ 2.50GHz,CPU,macOS,443.498
+NVIDIA A100-SXM4-40GB,CUDA,Linux,1333.193
+NVIDIA A100-SXM4-40GB,OPTIX,Linux,3718.3
+NVIDIA A10G,OPTIX,Linux,3756.69
+NVIDIA A40-6Q,OPTIX,Windows,4664.5
+NVIDIA GeForce 920M,CUDA,Windows,49.8
+NVIDIA GeForce GT 1030,CUDA,Windows,56.837
+NVIDIA GeForce GT 710,CUDA,Windows,23.99
+NVIDIA GeForce GT 730,CUDA,Windows,43.49
+NVIDIA GeForce GTX 1050,CUDA,Windows,192.631
+NVIDIA GeForce GTX 1050,OPTIX,Linux,188.86
+NVIDIA GeForce GTX 1050,OPTIX,Windows,170.838
+NVIDIA GeForce GTX 1050 Ti,CUDA,Windows,226.61
+NVIDIA GeForce GTX 1050 Ti,OPTIX,,235.41
+NVIDIA GeForce GTX 1050 Ti,OPTIX,,211.752
+NVIDIA GeForce GTX 1050 Ti with Max-Q Design,OPTIX,,214.78
+NVIDIA GeForce GTX 1060,CUDA,Windows,448.575
+NVIDIA GeForce GTX 1060,OPTIX,Linux,380.9
+NVIDIA GeForce GTX 1060,OPTIX,Windows,365.001
+NVIDIA GeForce GTX 1060 3GB,CUDA,Windows,389.37
+NVIDIA GeForce GTX 1060 3GB,OPTIX,Linux,349.79
+NVIDIA GeForce GTX 1060 3GB,OPTIX,Windows,277.285
+NVIDIA GeForce GTX 1060 6GB,CUDA,Linux,382.96
+NVIDIA GeForce GTX 1060 6GB,CUDA,Windows,448.758
+NVIDIA GeForce GTX 1060 6GB,OPTIX,Linux,368.75
+NVIDIA GeForce GTX 1060 6GB,OPTIX,Windows,384.545
+NVIDIA GeForce GTX 1060 with Max-Q Design,OPTIX,Linux,365.72
+NVIDIA GeForce GTX 1060 with Max-Q Design,OPTIX,Windows,346.68
+NVIDIA GeForce GTX 1070,CUDA,Linux,647.36
+NVIDIA GeForce GTX 1070,CUDA,Windows,632.997
+NVIDIA GeForce GTX 1070,OPTIX,Linux,565.695
+NVIDIA GeForce GTX 1070,OPTIX,Windows,564.76
+NVIDIA GeForce GTX 1070 Ti,CUDA,Windows,687.06
+NVIDIA GeForce GTX 1070 Ti,OPTIX,Windows,619.247
+NVIDIA GeForce GTX 1070 with Max-Q Design,OPTIX,Windows,505.31
+NVIDIA GeForce GTX 1080,,Linux,598.06
+NVIDIA GeForce GTX 1080,,Windows,602.553
+NVIDIA GeForce GTX 1080,OPTIX,Linux,644.555
+NVIDIA GeForce GTX 1080,OPTIX,Windows,606.085
+NVIDIA GeForce GTX 1080 Ti,CUDA,Windows,873.025
+NVIDIA GeForce GTX 1080 Ti,OPTIX,Linux,904.66
+NVIDIA GeForce GTX 1080 Ti,OPTIX,Windows,865.014
+NVIDIA GeForce GTX 1650,CUDA,Linux,519.86
+NVIDIA GeForce GTX 1650,CUDA,Windows,427.424
+NVIDIA GeForce GTX 1650,,Linux,492.46
+NVIDIA GeForce GTX 1650,,Windows,476.203
+NVIDIA GeForce GTX 1650 SUPER,,Linux,596.54
+NVIDIA GeForce GTX 1650 SUPER,,Windows,524.007
+NVIDIA GeForce GTX 1650 Ti,OPTIX,Windows,481.804
+NVIDIA GeForce GTX 1650 with Max-Q Design,CUDA,Windows,404.847
+NVIDIA GeForce GTX 1650 with Max-Q Design,OPTIX,Windows,335.44
+NVIDIA GeForce GTX 1660,CUDA,Windows,654.495
+NVIDIA GeForce GTX 1660,OPTIX,Linux,686.07
+NVIDIA GeForce GTX 1660,OPTIX,Windows,733.361
+NVIDIA GeForce GTX 1660 SUPER,CUDA,Linux,870.57
+NVIDIA GeForce GTX 1660 SUPER,CUDA,Windows,842.2
+NVIDIA GeForce GTX 1660 SUPER,OPTIX,Windows,801.576
+NVIDIA GeForce GTX 1660 Ti,CUDA,Windows,855.02
+NVIDIA GeForce GTX 1660 Ti,OPTIX,Linux,801.057
+NVIDIA GeForce GTX 1660 Ti,OPTIX,Windows,734.266
+NVIDIA GeForce GTX 650,CUDA,Linux,41.12
+NVIDIA GeForce GTX 650,CUDA,Windows,29.21
+NVIDIA GeForce GTX 650 Ti,CUDA,Windows,93.75
+NVIDIA GeForce GTX 680,CUDA,Windows,214.32
+NVIDIA GeForce GTX 750 Ti,OPTIX,Linux,101.24
+NVIDIA GeForce GTX 760,CUDA,Windows,171.113
+NVIDIA GeForce GTX 770,CUDA,Linux,203.65
+NVIDIA GeForce GTX 770,CUDA,Windows,196.895
+NVIDIA GeForce GTX 780M,CUDA,Windows,157.09
+NVIDIA GeForce GTX 850M,CUDA,Windows,120.18
+NVIDIA GeForce GTX 880M,CUDA,Linux,189.4
+NVIDIA GeForce GTX 950,OPTIX,Windows,136.74
+NVIDIA GeForce GTX 960,CUDA,Linux,153.41
+NVIDIA GeForce GTX 960,OPTIX,Windows,171.285
+NVIDIA GeForce GTX 970,CUDA,Windows,341.333
+NVIDIA GeForce GTX 970,OPTIX,Windows,299.213
+NVIDIA GeForce GTX 970M,OPTIX,Windows,163.06
+NVIDIA GeForce GTX 980,CUDA,Windows,444.3
+NVIDIA GeForce GTX 980,OPTIX,Linux,333.52
+NVIDIA GeForce GTX 980,OPTIX,Windows,362.827
+NVIDIA GeForce GTX 980 Ti,CUDA,Windows,653.12
+NVIDIA GeForce GTX 980 Ti,OPTIX,Linux,552.555
+NVIDIA GeForce GTX 980 Ti,OPTIX,Windows,541.5
+NVIDIA GeForce GTX 980M,OPTIX,Linux,254.65
+NVIDIA GeForce GTX 980M,OPTIX,Windows,287.43
+NVIDIA GeForce GTX TITAN,CUDA,Windows,478.44
+NVIDIA GeForce GTX TITAN X,CUDA,Windows,618.65
+NVIDIA GeForce GTX TITAN X,OPTIX,Windows,557.213
+NVIDIA GeForce MX150,OPTIX,Windows,100.94
+NVIDIA GeForce MX230,CUDA,Windows,68.52
+NVIDIA GeForce MX250,OPTIX,Linux,83.25
+NVIDIA GeForce MX450,CUDA,Windows,239.37
+NVIDIA GeForce RTX 2060,CUDA,Linux,727.41
+NVIDIA GeForce RTX 2060,CUDA,Windows,1074.512
+NVIDIA GeForce RTX 2060,OPTIX,Linux,1390.58
+NVIDIA GeForce RTX 2060,OPTIX,Windows,1635.528
+NVIDIA GeForce RTX 2060 SUPER,CUDA,Windows,1374.82
+NVIDIA GeForce RTX 2060 SUPER,OPTIX,Linux,2397.14
+NVIDIA GeForce RTX 2060 SUPER,OPTIX,Windows,2276.808
+NVIDIA GeForce RTX 2060 with Max-Q Design,OPTIX,Windows,1510.1
+NVIDIA GeForce RTX 2070,CUDA,Windows,1398.72
+NVIDIA GeForce RTX 2070,OPTIX,,2307.21
+NVIDIA GeForce RTX 2070,OPTIX,Windows,2231.01
+NVIDIA GeForce RTX 2070 SUPER,CUDA,Windows,1506.7
+NVIDIA GeForce RTX 2070 SUPER,OPTIX,Linux,2403.29
+NVIDIA GeForce RTX 2070 SUPER,OPTIX,Windows,2399.457
+NVIDIA GeForce RTX 2070 Super,OPTIX,,2336.238
+NVIDIA GeForce RTX 2070 Super with Max-Q Design,OPTIX,Windows,1895.08
+NVIDIA GeForce RTX 2070 with Max-Q Design,CUDA,Windows,1187.95
+NVIDIA GeForce RTX 2070 with Max-Q Design,OPTIX,Linux,1952.6
+NVIDIA GeForce RTX 2070 with Max-Q Design,OPTIX,Windows,1786.196
+NVIDIA GeForce RTX 2080,CUDA,Windows,1350.08
+NVIDIA GeForce RTX 2080,OPTIX,Linux,2619.467
+NVIDIA GeForce RTX 2080,OPTIX,Windows,2401.904
+NVIDIA GeForce RTX 2080 SUPER,CUDA,Windows,1583.94
+NVIDIA GeForce RTX 2080 SUPER,OPTIX,Linux,2524.442
+NVIDIA GeForce RTX 2080 SUPER,,Windows,2356.426
+NVIDIA GeForce RTX 2080 Super,OPTIX,Windows,2385.32
+NVIDIA GeForce RTX 2080 Ti,CUDA,Windows,2129.935
+NVIDIA GeForce RTX 2080 Ti,OPTIX,Linux,3231.918
+NVIDIA GeForce RTX 2080 Ti,OPTIX,Windows,3014.924
+NVIDIA GeForce RTX 2080 with Max-Q Design,OPTIX,Windows,1488.91
+NVIDIA GeForce RTX 3050,OPTIX,Linux,1656.495
+NVIDIA GeForce RTX 3050,OPTIX,Windows,1602.351
+NVIDIA GeForce RTX 3050 Laptop GPU,CUDA,Linux,731.975
+NVIDIA GeForce RTX 3050 Laptop GPU,CUDA,Windows,615.238
+NVIDIA GeForce RTX 3050 Laptop GPU,OPTIX,Windows,1202.069
+NVIDIA GeForce RTX 3050 Ti Laptop GPU,CUDA,Windows,711.84
+NVIDIA GeForce RTX 3050 Ti Laptop GPU,OPTIX,Linux,1425
+NVIDIA GeForce RTX 3050 Ti Laptop GPU,OPTIX,Windows,1268.948
+NVIDIA GeForce RTX 3060,CUDA,Linux,1308.65
+NVIDIA GeForce RTX 3060,OPTIX,Linux,2646.536
+NVIDIA GeForce RTX 3060,OPTIX,Windows,2388.598
+NVIDIA GeForce RTX 3060 Laptop GPU,CUDA,Windows,1221.847
+NVIDIA GeForce RTX 3060 Laptop GPU,OPTIX,Linux,2165.944
+NVIDIA GeForce RTX 3060 Laptop GPU,OPTIX,Windows,2312.973
+NVIDIA GeForce RTX 3060 Ti,CUDA,Linux,1685.95
+NVIDIA GeForce RTX 3060 Ti,CUDA,Windows,1873.14
+NVIDIA GeForce RTX 3060 Ti,OPTIX,Linux,3147.607
+NVIDIA GeForce RTX 3060 Ti,OPTIX,Windows,2971.155
+NVIDIA GeForce RTX 3070,CUDA,Windows,2020.478
+NVIDIA GeForce RTX 3070,OPTIX,Linux,3427.705
+NVIDIA GeForce RTX 3070,OPTIX,Windows,3383.794
+NVIDIA GeForce RTX 3070 Laptop GPU,OPTIX,Linux,3213.548
+NVIDIA GeForce RTX 3070 Laptop GPU,OPTIX,Windows,2949.885
+NVIDIA GeForce RTX 3070 Ti,OPTIX,Linux,4021.104
+NVIDIA GeForce RTX 3070 Ti,OPTIX,Windows,3689.249
+NVIDIA GeForce RTX 3070 Ti Laptop GPU,OPTIX,Windows,3220.863
+NVIDIA GeForce RTX 3080,CUDA,,2161.15
+NVIDIA GeForce RTX 3080,OPTIX,,5314.75
+NVIDIA GeForce RTX 3080,OPTIX,,4863.409
+NVIDIA GeForce RTX 3080 Laptop GPU,CUDA,,2014.66
+NVIDIA GeForce RTX 3080 Laptop GPU,OPTIX,,3200.955
+NVIDIA GeForce RTX 3080 Ti,OPTIX,Linux,5773.346
+NVIDIA GeForce RTX 3080 Ti,OPTIX,Windows,5458.481
+NVIDIA GeForce RTX 3080 Ti Laptop GPU,OPTIX,Windows,3506.17
+NVIDIA GeForce RTX 3090,CUDA,Linux,3524.48
+NVIDIA GeForce RTX 3090,CUDA,Windows,3529.33
+NVIDIA GeForce RTX 3090,OPTIX,Linux,5734.05
+NVIDIA GeForce RTX 3090,OPTIX,Windows,6137.376
+NVIDIA GeForce RTX 3090 Ti,OPTIX,Windows,5924.674
+NVIDIA Quadro K1000M,CUDA,Windows,20.15
+NVIDIA Quadro K2200,OPTIX,Windows,127.27
+NVIDIA Quadro K3100M,CUDA,Windows,90.69
+NVIDIA Quadro K4000,CUDA,Linux,101.06
+NVIDIA Quadro K4000,CUDA,Windows,100.187
+NVIDIA Quadro K4100M,CUDA,Windows,129.02
+NVIDIA Quadro K5000,CUDA,Windows,163.79
+NVIDIA Quadro K5100M,CUDA,Windows,155.79
+NVIDIA Quadro K5200,CUDA,Windows,281.09
+NVIDIA Quadro M3000M,CUDA,Windows,271.337
+NVIDIA Quadro P2000,CUDA,Windows,344.51
+NVIDIA Quadro P3000,CUDA,Windows,358.66
+NVIDIA Quadro P3000,OPTIX,Windows,285.26
+NVIDIA Quadro P4000,OPTIX,Windows,477.84
+NVIDIA Quadro P5000,OPTIX,Windows,551.675
+NVIDIA Quadro P600,,Windows,149.71
+NVIDIA Quadro RTX 3000,,Windows,1678.59
+NVIDIA Quadro RTX 3000 with Max-Q Design,,Windows,1559.35
+NVIDIA Quadro RTX 4000,OPTIX,Linux,2343.725
+NVIDIA Quadro RTX 4000,OPTIX,Windows,2274.745
+NVIDIA Quadro RTX 4000 with Max-Q Design,OPTIX,Windows,2153.05
+NVIDIA Quadro RTX 5000,OPTIX,Linux,2437.78
+NVIDIA Quadro RTX 5000 with Max-Q Design,OPTIX,Windows,1624.7
+NVIDIA Quadro RTX 6000,OPTIX,Linux,3455.29
+NVIDIA Quadro RTX 6000,OPTIX,Windows,3392.45
+NVIDIA Quadro T1000,CUDA,Windows,435.2
+NVIDIA Quadro T1000 with Max-Q Design,OPTIX,Windows,358.25
+NVIDIA Quadro T2000,CUDA,Linux,340.816
+NVIDIA Quadro T2000,OPTIX,Windows,506.83
+NVIDIA Quadro T2000 with Max-Q Design,CUDA,Windows,532.07
+NVIDIA RTX A2000,OPTIX,Windows,2083.24
+NVIDIA RTX A2000 Laptop GPU,OPTIX,Linux,1346.94
+NVIDIA RTX A2000 Laptop GPU,OPTIX,Windows,1221.262
+NVIDIA RTX A3000 12GB Laptop GPU,OPTIX,Windows,2310.04
+NVIDIA RTX A4000,OPTIX,Linux,3272.083
+NVIDIA RTX A4000,OPTIX,Windows,3199.856
+NVIDIA RTX A4000 Laptop GPU,OPTIX,Windows,2563.02
+NVIDIA RTX A5000,OPTIX,Linux,4584.055
+NVIDIA RTX A5000,OPTIX,Windows,4688.858
+NVIDIA RTX A6000,OPTIX,Linux,5582.973
+NVIDIA RTX A6000,OPTIX,Windows,5211.022
+NVIDIA T1000 8GB,OPTIX,Windows,397.07
+NVIDIA T600,OPTIX,Windows,357.53
+NVIDIA TITAN RTX,OPTIX,Windows,3283.615
+NVIDIA TITAN V,CUDA,Linux,2203.59
+NVIDIA TITAN V,CUDA,Windows,2238.73
+NVIDIA TITAN V,OPTIX,Linux,1869
+NVIDIA TITAN V,OPTIX,Windows,1830.625
+NVIDIA TITAN X (Pascal),OPTIX,Windows,844.54
+NVIDIA Tesla K20Xm,CUDA,Windows,345.63
+NVIDIA Tesla K80,CUDA,Linux,179.895
+NVIDIA Tesla K80,CUDA,Windows,372.827
+NVIDIA Tesla M40,OPTIX,Windows,463.25
+NVIDIA Tesla M40 24GB,CUDA,Windows,611.65
+NVIDIA Tesla M60,OPTIX,Linux,178.845
+NVIDIA Tesla P4,CUDA,Linux,144.557
+NVIDIA Tesla T4,CUDA,Linux,342.463
+NVIDIA Tesla T4,OPTIX,Linux,523.42
+NVIDIA Tesla V100-PCIE-32GB,OPTIX,Linux,2075.51
+RTX A2000 Laptop GPU,CUDA,Windows,691.12
+T1200 Laptop GPU,CUDA,Windows,459.84
+T500,CUDA,Windows,208.335
+Virtual CPU @ 2.99GHz,CPU,Windows,20.47
